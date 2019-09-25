@@ -1,0 +1,135 @@
+{"frames": {
+
+"zhendong_jinbi1_01.png":
+{
+	"frame": {"x":1,"y":93,"w":9,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":14,"w":9,"h":9},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_02.png":
+{
+	"frame": {"x":47,"y":72,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":12,"w":10,"h":10},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_03.png":
+{
+	"frame": {"x":42,"y":84,"w":15,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":9,"w":15,"h":17},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_04.png":
+{
+	"frame": {"x":24,"y":73,"w":16,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":7,"w":16,"h":18},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_05.png":
+{
+	"frame": {"x":1,"y":73,"w":21,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":6,"w":21,"h":18},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_06.png":
+{
+	"frame": {"x":26,"y":48,"w":23,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":23,"h":19},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_07.png":
+{
+	"frame": {"x":1,"y":51,"w":23,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":23,"h":20},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_08.png":
+{
+	"frame": {"x":1,"y":1,"w":23,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":23,"h":21},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_09.png":
+{
+	"frame": {"x":24,"y":1,"w":23,"h":20},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":23,"h":20},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_10.png":
+{
+	"frame": {"x":1,"y":26,"w":23,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":23,"h":21},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_11.png":
+{
+	"frame": {"x":24,"y":26,"w":23,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":23,"h":20},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_12.png":
+{
+	"frame": {"x":46,"y":1,"w":22,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":22,"h":14},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_13.png":
+{
+	"frame": {"x":47,"y":48,"w":22,"h":13},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":22,"h":13},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_14.png":
+{
+	"frame": {"x":49,"y":25,"w":10,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":10,"h":11},
+	"sourceSize": {"w":23,"h":27}
+},
+"zhendong_jinbi1_15.png":
+{
+	"frame": {"x":12,"y":93,"w":9,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":9,"h":9},
+	"sourceSize": {"w":23,"h":27}
+}},
+"animations": {
+	"zhendong_jinbi1": ["zhendong_jinbi1_01.png","zhendong_jinbi1_02.png","zhendong_jinbi1_03.png","zhendong_jinbi1_04.png","zhendong_jinbi1_05.png","zhendong_jinbi1_06.png","zhendong_jinbi1_07.png","zhendong_jinbi1_08.png","zhendong_jinbi1_09.png","zhendong_jinbi1_10.png","zhendong_jinbi1_11.png","zhendong_jinbi1_12.png","zhendong_jinbi1_13.png","zhendong_jinbi1_14.png","zhendong_jinbi1_15.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "blink.png",
+	"format": "RGBA8888",
+	"size": {"w":61,"h":103},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:4895fb71985fbd7d9edd0d056c50bf92:881c7b5d61fff54edea59dfa610fa9f6:67cfac9e17410e508afbcf4e4803bb8d$"
+}
+}

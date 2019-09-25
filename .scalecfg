@@ -1,0 +1,32 @@
+{
+  "srcFolder": "C:/Users/admin/Desktop/2019天猫11/test",
+  "types": [
+    {
+      "type": "normal",
+      "folder": "C:/Users/admin/Desktop/2019天猫11/test/high"
+    },
+    {
+      "type": "mid",
+      "folder": "C:/Users/admin/Desktop/2019天猫11/test/mid"
+    },
+    {
+      "type": "low",
+      "folder": "C:/Users/admin/Desktop/2019天猫11/test/low"
+    }
+  ],
+  "files": [
+    {
+      "name": "close",
+      "type": "IMAGE",
+      "src": {
+        "image": "close.png"
+      },
+      "scale": {
+        "normal": 1,
+        "mid": 0.5,
+        "low": 0.1
+      },
+      "tinypng": true
+    }
+  ]
+}

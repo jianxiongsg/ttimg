@@ -1,0 +1,46 @@
+{
+  "name": "scaleres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "prepublishOnly": "autover && tsc  && dos2unix dist/main.js"
+  },
+  "bin": {
+    "scaleres": "./dist/main.js",
+    "ttimg": "./dist/tinyMgr.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@sanzaru/autover": "^0.0.7",
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.6",
+    "@types/node": "^11.11.3",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "nyc": "^13.3.0",
+    "ts-loader": "^5.3.3"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "image-size": "^0.7.4",
+    "isbinaryfile": "^4.0.0",
+    "lodash": "^4.17.11",
+    "log4js": "^4.1.0",
+    "md5": "^2.2.1",
+    "ora": "^3.4.0",
+    "prompts": "^2.0.4",
+    "recursive-copy": "^2.0.10",
+    "rimraf": "^2.6.3",
+    "sharp": "^0.23.0",
+    "through2": "^3.0.1",
+    "@types/uuid": "^3.4.4",
+    "md5storage": "^1.0.2",
+    "remotefile": "^1.0.1",
+    "tinify": "^1.6.0-beta.2",
+    "uuid": "^3.3.2"
+  }
+}
