@@ -35,7 +35,7 @@
     "prompts": "^2.0.4",
     "recursive-copy": "^2.0.10",
     "rimraf": "^2.6.3",
-    "sharp": "^0.23.0",
+    "sharp": "^0.30.5",
     "through2": "^3.0.1",
     "@types/uuid": "^3.4.4",
     "md5storage": "^1.0.2",
